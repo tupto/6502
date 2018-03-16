@@ -1,0 +1,6 @@
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\bin\Debug\6502.exe.config
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\bin\Debug\6502.exe
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\bin\Debug\6502.pdb
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\obj\Debug\6502.csprojResolveAssemblyReference.cache
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\obj\Debug\6502.exe
+c:\users\toby.tag-checkltd\documents\visual studio 2015\Projects\6502\6502\obj\Debug\6502.pdb
